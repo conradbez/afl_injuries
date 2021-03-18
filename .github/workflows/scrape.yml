@@ -10,7 +10,6 @@ on:
 name: Scrape Data
 jobs:
   scheduled:
-    name: Build
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@main
