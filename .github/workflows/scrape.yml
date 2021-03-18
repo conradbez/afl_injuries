@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  '* * * * *' # Ref https://crontab.guru/examples.html
+    - cron:  '*/5 * * * *' # Ref https://crontab.guru/examples.html
 name: Scrape Data
 jobs:
   build:
