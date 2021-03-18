@@ -1,0 +1,24 @@
+on:
+  schedule:
+    - cron:  '* * * * *'
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+name: Scrape Data
+jobs:
+  scheduled2:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Build
+      run: pip3 install -r requirements.txt
+    - name: Scrape
+      run: python3 injuries.py
+      # env:
+      #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
