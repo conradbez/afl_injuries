@@ -1,13 +1,13 @@
 on:
   schedule:
-    - cron:  '* * * * *'
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
-
-name: Scrape Data
+    - cron:  '*/5 * * * *'
+  # push:
+  #   branches: [ main ]
+  # pull_request:
+  #   branches: [ main ]
+  # workflow_dispatch:
+  
+name: Scrape Data2
 jobs:
   scheduled2:
     runs-on: ubuntu-latest
