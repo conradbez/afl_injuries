@@ -19,9 +19,3 @@ for df_part in dfs:
     df_part['Updated'] = date
     df = df.append(df_part)
 df.to_csv('injuries.csv')
-
-
-# %%
-
-
-
