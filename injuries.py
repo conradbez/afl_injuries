@@ -5,6 +5,7 @@ import requests
 import pandas as pd
 
 
+
 # %%
 r = requests.get('https://www.afl.com.au/news/564/afl-injury-list')
 dfs = pd.read_html(r.text)
