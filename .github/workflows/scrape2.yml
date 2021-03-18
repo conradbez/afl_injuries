@@ -2,12 +2,8 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '*/5 * * * *'
-  # push:
-  #   branches: [ main ]
-  # pull_request:
-  #   branches: [ main ]
-  # workflow_dispatch:
 
+    
 name: Scrape Data2
 jobs:
   scheduled2:
