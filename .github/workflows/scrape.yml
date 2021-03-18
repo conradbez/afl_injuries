@@ -1,11 +1,12 @@
 on:
+  schedule:
+    - cron:  '* * * * *'
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
   workflow_dispatch:
-  schedule:
-    - cron:  '*/5 * * * *' # Ref https://crontab.guru/examples.html
+
 name: Scrape Data
 jobs:
   build:
