@@ -23,20 +23,21 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
 
-name: Scrape latest data
+# name: Scrape latest data
 
-on:
-  push:
-  workflow_dispatch:
-  schedule:
-    - cron:  '* * * * *'
+# on:
+#   push:
+#   workflow_dispatch:
+#   schedule:
+#     - cron:  '* * * * *'
 
-jobs:
-  scheduled:
-    runs-on: ubuntu-latest
-    steps: pip3 install -r requirements.txt && python3 injuries.py
-    - name: Check out this repo
-      uses: actions/checkout@v2
+# jobs:
+#   scheduled:
+#     runs-on: ubuntu-latest
+#     steps: 
+#     pip3 install -r requirements.txt && python3 injuries.py
+#     - name: Check out this repo
+#       uses: actions/checkout@v2
     # - name: Fetch latest data
     #   run:
 #     - name: Commit and push if it changed
