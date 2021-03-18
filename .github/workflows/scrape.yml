@@ -14,6 +14,6 @@ jobs:
       run: python3 injuries.py
       # env:
       #   WHATEVER_TOKEN: ${{ secrets.YOU_WANT }}
-    - uses: conradbez/AFL_injuries@master
+    - uses: conradbez/afl_injuries@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
