@@ -50,6 +50,7 @@ df.loc[df['ESTIMATED RETURN'].isin([ 'Season', 'Indefinite']), 'DATE_BACK'] = da
 df.loc[df['ESTIMATED RETURN'].isin([ 'Test', 'TBC', 'TBA']), 'DATE_BACK'] = datetime.now().date()+timedelta(days=28)
 
 
+
 # %%
 df.to_csv('injuries.csv')
 
