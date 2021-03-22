@@ -46,8 +46,8 @@ df['ESTIMATED RETURN'].unique()
 
 # %%
 df.loc[df['ESTIMATED RETURN'].isin([ 'Season', 'Indefinite']), 'DATE_BACK'] = datetime.strptime('01/01/24', '%d/%m/%y')
+
 df.loc[df['ESTIMATED RETURN'].isin([ 'Test', 'TBC', 'TBA']), 'DATE_BACK'] = datetime.now().date()+timedelta(days=28)
-df.l
 
 
 # %%
