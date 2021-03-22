@@ -9,6 +9,8 @@
 import requests
 import pandas as pd
 import dateparser
+from datetime import datetime
+from datetime import timedelta
 
 
 # %%
@@ -39,10 +41,32 @@ df['DATE_BACK'] = df.apply(
 
 
 # %%
-df
+df['ESTIMATED RETURN'].unique()
+
+
+# %%
+df.loc[df['ESTIMATED RETURN'].isin([ 'Season', 'Indefinite']), 'DATE_BACK'] = datetime.strptime('01/01/24', '%d/%m/%y')
+df.loc[df['ESTIMATED RETURN'].isin([ 'Test', 'TBC', 'TBA']), 'DATE_BACK'] = datetime.now().date()+timedelta(days=28)
+df.l
 
 
 # %%
 df.to_csv('injuries.csv')
+
+
+# %%
+
+
+
+# %%
+
+
+
+# %%
+
+
+
+# %%
+
 
 
