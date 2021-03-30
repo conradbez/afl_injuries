@@ -1,12 +1,14 @@
 ,PLAYER,INJURY,ESTIMATED RETURN,Updated,DATE_BACK
-0,Luke Brown,Achilles,1 week,"Tuesday, March 23",2021-03-30 00:00:00
-1,Brayden Cook,Shoulder,4 weeks,"Tuesday, March 23",2021-04-20 00:00:00
-2,Matt Crouch,Groin,TBC,"Tuesday, March 23",2021-04-27
-3,Jackson Hately,Groin,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-4,Mitch Hinge,Shoulder,TBC,"Tuesday, March 23",2021-04-27
-5,Jake Kelly,Concussion,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-6,Wayne Milera,Knee,Season,"Tuesday, March 23",2024-01-01 00:00:00
-7,Daniel Talia,Knee,1 week,"Tuesday, March 23",2021-03-30 00:00:00
+0,Luke Brown,Achilles,Test,"Tuesday, March 30",2021-04-27
+1,Brayden Cook,Shoulder,3 weeks,"Tuesday, March 30",2021-04-20 00:00:00
+2,Matt Crouch,Groin,TBC,"Tuesday, March 30",2021-04-27
+3,Lochlan Gollant,Finger,8-12 weeks,"Tuesday, March 30",2021-06-22 00:00:00
+4,Jackson Hately,Groin,Test,"Tuesday, March 30",2021-04-27
+5,Mitch Hinge,Shoulder,Season,"Tuesday, March 30",2024-01-01 00:00:00
+6,Jake Kelly,Concussion,Test,"Tuesday, March 30",2021-04-27
+7,Wayne Milera,Knee,Season,"Tuesday, March 30",2024-01-01 00:00:00
+8,Luke Pedlar,Abdominal,Test,"Tuesday, March 30",2021-04-27
+9,Daniel Talia,Knee/foot,1-2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
 0,Jarrod Berry,Hamstring,Test,"Tuesday, March 30",2021-04-27
 1,Nakia Cockatoo,Hamstring,Test,"Tuesday, March 30",2021-04-27
 2,Connor McFadyen,Knee,7-8 weeks,"Tuesday, March 30",2021-05-25 00:00:00
@@ -14,18 +16,18 @@
 4,Dan McStay,Knee,3-4 weeks,"Tuesday, March 30",2021-04-27 00:00:00
 5,Cam Rayner,Knee,Season,"Tuesday, March 30",2024-01-01 00:00:00
 6,Archie Smith,Achilles/shoulder,TBC,"Tuesday, March 30",2021-04-27
-0,Charlie Curnow,Knee,Indefinite,"Tuesday, March 23",2024-01-01 00:00:00
-1,Tom De Koning,Back,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-2,Brodie Kemp,Foot,4-6 weeks,"Tuesday, March 23",2021-05-04 00:00:00
-3,Caleb Marchbank,Calf,Test,"Tuesday, March 23",2021-04-27
-4,Mitch McGovern,Back,Test,"Tuesday, March 23",2021-04-27
-5,Nic Newman,Knee,2-3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-6,Sam Philp,Hip,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-7,Jack Silvagni,Shoulder,Test,"Tuesday, March 23",2021-04-27
-0,Trent Bianco,Knee,Indefinite,"Tuesday, March 23",2024-01-01 00:00:00
-1,Will Kelly,Collarbone,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-2,Reef McInnes,Finger,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-3,Steele Sidebottom,Calf,Available,"Tuesday, March 23",
+0,Charlie Curnow,Knee,Indefinite,"Tuesday, March 30",2024-01-01 00:00:00
+1,Tom De Koning,Back,3-4 weeks,"Tuesday, March 30",2021-04-27 00:00:00
+2,Zac Fisher,Ankle,6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+3,Brodie Kemp,Foot,4-6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+4,Caleb Marchbank,Calf,Test,"Tuesday, March 30",2021-04-27
+5,Jack Martin,Knee,6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+6,Mitch McGovern,Back,Test,"Tuesday, March 30",2021-04-27
+7,Nic Newman,Knee,5-6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+8,Sam Philp,Hip,Test,"Tuesday, March 30",2021-04-27
+9,Jack Silvagni,Shoulder,Test,"Tuesday, March 30",2021-04-27
+0,Trent Bianco,Knee,4-6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+1,Jamie Elliott,Leg,10-12 weeks,"Tuesday, March 30",2021-06-22 00:00:00
 0,Patrick Ambrose,Foot,TBC,"Tuesday, March 30",2021-04-27
 1,Jye Caldwell,Hamstring,6-8 weeks,"Tuesday, March 30",2021-05-25 00:00:00
 2,Dylan Clarke,Ankle,2-3 weeks,"Tuesday, March 30",2021-04-20 00:00:00
@@ -35,30 +37,28 @@
 6,Dylan Shiel,Knee,6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
 7,James Stewart,Hamstring,4-5 weeks,"Tuesday, March 30",2021-05-04 00:00:00
 8,Irving Mosquito,Knee,5-6 months,"Tuesday, March 30",2021-09-30 00:00:00
-0,Bailey Banfield,Ankle,2-3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-1,Brett Bewley,Groin,TBA,"Tuesday, March 23",2021-04-27
-2,Mitch Crowden,Calf,3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-3,Michael Frederick,Calf,Test,"Tuesday, March 23",2021-04-27
-4,Joel Hamling,Ankle,4-6 weeks,"Tuesday, March 23",2021-05-04 00:00:00
-5,Stephen Hill,Hamstring,TBA,"Tuesday, March 23",2021-04-27
-6,Rory Lobb,Knee,TBA,"Tuesday, March 23",2021-04-27
-7,Griffin Logue,Hamstring,1 week,"Tuesday, March 23",2021-03-30 00:00:00
-8,Nathan O'Driscoll,Shoulder,Test,"Tuesday, March 23",2021-04-27
-9,Alex Pearce,Knee,6-8 weeks,"Tuesday, March 23",2021-05-18 00:00:00
-10,Sam Sturt,Ankle,Test,"Tuesday, March 23",2021-04-27
-11,Josh Treacy,Suspension,3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-12,Darcy Tucker,Hamstring,3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-13,Brandon Walker,Foot,Test,"Tuesday, March 23",2021-04-27
-14,Michael Walters,Hamstring,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-0,Oscar Brownless,Shoulder,TBC,"Tuesday, March 23",2021-04-27
-1,Brad Close,Foot,TBC,"Tuesday, March 23",2021-04-27
-2,Jeremy Cameron,Hamstring,2-3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-3,Patrick Dangerfield,Suspension,Round 5,"Tuesday, March 23",
-4,Mitch Duncan,Calf,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-5,Sam Menegola,Shoulder,Test,"Tuesday, March 23",2021-04-27
-6,Esava Ratugolea,Fractured leg,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-7,Sam Simpson,Shoulder,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-8,Cooper Stephens,Ankle,2-4 weeks,"Tuesday, March 23",2021-04-20 00:00:00
+0,Bailey Banfield,Ankle,1-2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+1,Brett Bewley,Groin,TBA,"Tuesday, March 30",2021-04-27
+2,Mitch Crowden,Calf,2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+3,Joel Hamling,Ankle,4-6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+4,Liam Henry,Calf,Test,"Tuesday, March 30",2021-04-27
+5,Stephen Hill,Hamstring,TBA,"Tuesday, March 30",2021-04-27
+6,Rory Lobb,Knee,TBA,"Tuesday, March 30",2021-04-27
+7,Griffin Logue,Hamstring,Test,"Tuesday, March 30",2021-04-27
+8,Nathan O'Driscoll,Shoulder,Test,"Tuesday, March 30",2021-04-27
+9,Alex Pearce,Knee,5-7 weeks,"Tuesday, March 30",2021-05-18 00:00:00
+10,Sam Sturt,Ankle,Available,"Tuesday, March 30",
+11,Darcy Tucker,Hamstring,2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+12,Brandon Walker,Foot,Test,"Tuesday, March 30",2021-04-27
+13,Michael Walters,Hamstring,Test,"Tuesday, March 30",2021-04-27
+0,Jeremy Cameron,Hamstring,2-3 weeks,"Tuesday, March 30",2021-04-20 00:00:00
+1,Patrick Dangerfield,Suspension,Round 5,"Tuesday, March 30",
+2,Mitch Duncan,Calf,Test,"Tuesday, March 30",2021-04-27
+3,Sam Menegola,Shoulder,Test,"Tuesday, March 30",2021-04-27
+4,Esava Ratugolea,Fractured leg,1-2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+5,Gary Rohan,Suspension,Round 5,"Tuesday, March 30",
+6,Sam Simpson,Shoulder,Test,"Tuesday, March 30",2021-04-27
+7,Cooper Stephens,Ankle,2-3 weeks,"Tuesday, March 30",2021-04-20 00:00:00
 0,Connor Budarick,Knee,Season,"Tuesday, March 30",2024-01-01 00:00:00
 1,Matt Conroy,Knee,Season,"Tuesday, March 30",2024-01-01 00:00:00
 2,Sam Day,Knee,TBC,"Tuesday, March 30",2021-04-27
@@ -67,20 +67,21 @@
 5,Zac Smith,Knee,4-5 weeks,"Tuesday, March 30",2021-05-04 00:00:00
 6,Jacob Townsend,Face,TBC,"Tuesday, March 30",2021-04-27
 7,Rory Thompson,Knee,Season,"Tuesday, March 30",2024-01-01 00:00:00
-0,Jesse Hogan,Quad,1 week,"Tuesday, March 23",2021-03-30 00:00:00
-1,Adam Kennedy,Shoulder,12-16 weeks,"Tuesday, March 23",2021-07-13 00:00:00
-2,Daniel Lloyd,Quad,8-10 weeks,"Tuesday, March 23",2021-06-01 00:00:00
-3,Braydon Preuss,Shoulder,12-16 weeks,"Tuesday, March 23",2021-07-13 00:00:00
-4,Jake Riccardi,Ankle,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-5,Lachie Whitfield,Liver,Indefinite,"Tuesday, March 23",2024-01-01 00:00:00
-0,Keegan Brooksby,Ankle,2-3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-1,James Cousins,Foot,Test,"Tuesday, March 23",2021-04-27
-2,Jack Gunston,Back,4-6 weeks,"Tuesday, March 23",2021-05-04 00:00:00
-3,Seamus Mitchell,Ankle,Indefinite,"Tuesday, March 23",2024-01-01 00:00:00
-4,Jon Patton,Club investigation,Indefinite,"Tuesday, March 23",2024-01-01 00:00:00
-5,Jack Scrimshaw,Knee,Test,"Tuesday, March 23",2021-04-27
-6,James Sicily,Knee,Indefinite,"Tuesday, March 23",2024-01-01 00:00:00
-7,Chad Wingard,Calf,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
+0,Jesse Hogan,Quad,Test,"Tuesday, March 30",2021-04-27
+1,Tom Hutchesson,Hamstring,8 weeks,"Tuesday, March 30",2021-05-25 00:00:00
+2,Adam Kennedy,Shoulder,10-16 weeks,"Tuesday, March 30",2021-07-20 00:00:00
+3,Daniel Lloyd,Quad,6-8 weeks,"Tuesday, March 30",2021-05-25 00:00:00
+4,Braydon Preuss,Shoulder,10-14 weeks,"Tuesday, March 30",2021-07-06 00:00:00
+5,Sam Reid,Suspension,2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+6,Lachie Whitfield,Liver,TBC,"Tuesday, March 30",2021-04-27
+0,Keegan Brooksby,Ankle,1-2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+1,Will Day,Ankle,TBC,"Tuesday, March 30",2021-04-27
+2,Denver Grainger-Barras,Knee,TBC,"Tuesday, March 30",2021-04-27
+3,Jack Gunston,Back,3-5 weeks,"Tuesday, March 30",2021-05-04 00:00:00
+4,Seamus Mitchell,Ankle,Indefinite,"Tuesday, March 30",2024-01-01 00:00:00
+5,Jon Patton,Club investigation,Indefinite,"Tuesday, March 30",2024-01-01 00:00:00
+6,James Sicily,Knee,Indefinite,"Tuesday, March 30",2024-01-01 00:00:00
+7,Chad Wingard,Calf,Test,"Tuesday, March 30",2021-04-27
 0,Ben Brown,Knee,3-5 weeks,"Tuesday, March 30",2021-05-04 00:00:00
 1,Mitch Brown,Calf,Test,"Tuesday, March 30",2021-04-27
 2,James Harmes,Wrist,5-6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
@@ -98,31 +99,35 @@
 6,Flynn Perez,Knee,Season,"Tuesday, March 30",2024-01-01 00:00:00
 7,Robbie Tarrant,Kidney,10-14 weeks,"Tuesday, March 30",2021-07-06 00:00:00
 8,Curtis Taylor,Concussion,1 week,"Tuesday, March 30",2021-04-06 00:00:00
-0,Riley Bonner,Hamstring,TBC,"Tuesday, March 23",2021-04-27
-1,Tyson Goldsack,Knee,6-8 weeks,"Tuesday, March 23",2021-05-18 00:00:00
-2,Lachlan Jones,Hamstring,2-3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-3,Connor Rozee,Foot,TBC,"Tuesday, March 23",2021-04-27
+0,Riley Bonner,Hamstring,TBC,"Tuesday, March 30",2021-04-27
+1,Tyson Goldsack,Knee,5-7 weeks,"Tuesday, March 30",2021-05-18 00:00:00
+2,Lachlan Jones,Hamstring,Test,"Tuesday, March 30",2021-04-27
+3,Todd Marshall,Back,Test,"Tuesday, March 30",2021-04-27
+4,Jake Pasini,Shoulder,12-14 weeks,"Tuesday, March 30",2021-07-06 00:00:00
+5,Connor Rozee,Foot,Available,"Tuesday, March 30",
 0,Noah Cumberland,Knee,6-8 weeks,"Tuesday, March 30",2021-05-25 00:00:00
 1,Callum Coleman-Jones,Suspension,Round five,"Tuesday, March 30",
 2,Ivan Soldo,Knee,4-5 months,"Tuesday, March 30",2021-08-30 00:00:00
 3,Sydney Stack,Suspension,Round five,"Tuesday, March 30",
-0,Ryan Byrnes,Hamstring,2-4 weeks,"Tuesday, March 23",2021-04-20 00:00:00
-1,Brad Crouch,Suspension,Round three,"Tuesday, March 23",
-2,James Frawley,Hamstring,4-8 weeks,"Tuesday, March 23",2021-05-18 00:00:00
-3,Jarryn Geary,Fractured leg,2-4 weeks,"Tuesday, March 23",2021-04-20 00:00:00
-4,Dan Hannebery,Calf,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-5,Rowan Marshall,Foot,1-3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-6,Ben Paton,Broken leg,Season,"Tuesday, March 23",2024-01-01 00:00:00
-7,Paddy Ryder,Personal leave,Indefinite,"Tuesday, March 23",2024-01-01 00:00:00
-0,Robbie Fox,Finger,5-7 weeks,"Tuesday, March 23",2021-05-11 00:00:00
-1,Sam Naismith,Knee,TBC,"Tuesday, March 23",2021-04-27
-0,Jarrod Cameron,Groin,3-4 weeks,"Tuesday, March 23",2021-04-20 00:00:00
-1,Mark Hutchings,Knee,3-4 weeks,"Tuesday, March 23",2021-04-20 00:00:00
-2,Luke Shuey,Hamstring,1-2 weeks,"Tuesday, March 23",2021-04-06 00:00:00
-3,Daniel Venables,Concussion,TBC,"Tuesday, March 23",2021-04-27
-4,Jake Waterman,Back,1 week,"Tuesday, March 23",2021-03-30 00:00:00
-5,Bailey Williams,Ankle,2-3 weeks,"Tuesday, March 23",2021-04-13 00:00:00
-6,Elliot Yeo,Groin,TBC,"Tuesday, March 23",2021-04-27
+0,Ryan Byrnes,Hamstring,2-3 weeks,"Tuesday, March 30",2021-04-20 00:00:00
+1,James Frawley,Hamstring,4-6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+2,Jarryn Geary,Fractured leg,1-2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+3,Dan Hannebery,Calf,1-2 weeks,"Tuesday, March 30",2021-04-13 00:00:00
+4,Rowan Marshall,Foot,Test,"Tuesday, March 30",2021-04-27
+5,Ben Paton,Broken leg,Season,"Tuesday, March 30",2024-01-01 00:00:00
+6,Paddy Ryder,Personal leave,Indefinite,"Tuesday, March 30",2024-01-01 00:00:00
+7,Jimmy Webster,Concussion,1 week,"Tuesday, March 30",2021-04-06 00:00:00
+0,Robbie Fox,Finger,4-6 weeks,"Tuesday, March 30",2021-05-11 00:00:00
+1,Sam Naismith,Knee,TBC,"Tuesday, March 30",2021-04-27
+2,Ben Ronke,Knee,TBC,"Tuesday, March 30",2021-04-27
+3,James Rowbottom,Knee,Test,"Tuesday, March 30",2021-04-27
+0,Jarrod Cameron,Groin,TBC,"Tuesday, March 30",2021-04-27
+1,Mark Hutchings,Knee,2-3 weeks,"Tuesday, March 30",2021-04-20 00:00:00
+2,Luke Shuey,Hamstring,Test,"Tuesday, March 30",2021-04-27
+3,Daniel Venables,Concussion,TBC,"Tuesday, March 30",2021-04-27
+4,Jake Waterman,Back,Test,"Tuesday, March 30",2021-04-27
+5,Bailey Williams,Ankle,Test,"Tuesday, March 30",2021-04-27
+6,Elliot Yeo,Groin,TBC,"Tuesday, March 30",2021-04-27
 0,Hayden Crozier,Shoulder,3-5 weeks,"Tuesday, March 30",2021-05-04 00:00:00
 1,Riley Garcia,Knee,Test,"Tuesday, March 30",2021-04-27
 2,Mitch Hannan,Groin,Test,"Tuesday, March 30",2021-04-27
