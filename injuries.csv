@@ -36,15 +36,14 @@
 4,Jamie Elliott,Leg,6-8 weeks,"Tuesday, April 27",2021-06-22 00:00:00
 5,Levi Greenwood,Concussion,TBC,"Tuesday, April 27",2021-05-31
 6,Jeremy Howe,Hamstring,2-3 weeks,"Tuesday, April 27",2021-05-18 00:00:00
-0,Jye Caldwell,Hamstring,2-4 weeks,"Tuesday, April 27",2021-05-25 00:00:00
-1,Dylan Clarke,Ankle,Test,"Tuesday, April 27",2021-05-31
-2,Sam Draper,Ankle,4-6 weeks,"Tuesday, April 27",2021-06-08 00:00:00
-3,Aaron Francis,Ankle,Test,"Tuesday, April 27",2021-05-31
-4,Michael Hurley,Hip,Indefinite,"Tuesday, April 27",2024-01-01 00:00:00
-5,Jordan Ridley,Concussion,Test,"Tuesday, April 27",2021-05-31
-6,Dylan Shiel,Knee,10-14 weeks,"Tuesday, April 27",2021-08-03 00:00:00
-7,James Stewart,Hamstring,Test,"Tuesday, April 27",2021-05-31
-8,Irving Mosquito,Knee,Indefinite,"Tuesday, April 27",2024-01-01 00:00:00
+0,Jye Caldwell,Hamstring,2-3 weeks,"Monday, May 3",2021-05-24 00:00:00
+1,Dylan Clarke,Ankle,Test,"Monday, May 3",2021-05-31
+2,Sam Draper,Ankle,3-5 weeks,"Monday, May 3",2021-06-07 00:00:00
+3,Aaron Francis,Ankle,Test,"Monday, May 3",2021-05-31
+4,Michael Hurley,Hip,Indefinite,"Monday, May 3",2024-01-01 00:00:00
+5,Andrew Phillips,Soreness,Test,"Monday, May 3",2021-05-31
+6,Dylan Shiel,Knee,8-10 weeks,"Monday, May 3",2021-07-12 00:00:00
+7,Irving Mosquito,Knee,Indefinite,"Monday, May 3",2024-01-01 00:00:00
 0,Adam Cerra,Ankle,2-3 weeks,"Tuesday, April 27",2021-05-18 00:00:00
 1,Brennan Cox,Ankle,Test,"Tuesday, April 27",2021-05-31
 2,Joel Hamling,Ankle,1-2 weeks,"Tuesday, April 27",2021-05-11 00:00:00
@@ -117,14 +116,13 @@
 5,Ollie Lord,Calf,TBC,"Tuesday, April 27",2021-05-31
 6,Jackson Mead,Spleen,TBC,"Tuesday, April 27",2021-05-31
 7,Jake Pasini,Shoulder,8-9 weeks,"Tuesday, April 27",2021-06-29 00:00:00
-0,Thomson Dow,Appendix,Test,"Tuesday, April 27",2021-05-31
-1,Ryan Garthwaite,Shoulder,2-3 weeks,"Tuesday, April 27",2021-05-18 00:00:00
-2,Dylan Grimes,Ankle,Test,"Tuesday, April 27",2021-05-31
-3,Kane Lambert,Calf,3-4 weeks,"Tuesday, April 27",2021-05-25 00:00:00
-4,Dustin Martin,Concussion,1-2 weeks,"Tuesday, April 27",2021-05-11 00:00:00
-5,Dion Prestia,Calf,3-4 weeks,"Tuesday, April 27",2021-05-25 00:00:00
-6,Ivan Soldo,Knee,3 months,"Tuesday, April 27",2021-07-27 00:00:00
-7,Nick Vlastuin,Knee,1-2 weeks,"Tuesday, April 27",2021-05-11 00:00:00
+0,Trent Cotchin,Hamstring,3-4 weeks,"Monday, May 3",2021-05-31 00:00:00
+1,Ryan Garthwaite,Shoulder,1-2 weeks,"Monday, May 3",2021-05-17 00:00:00
+2,Kane Lambert,Calf,2-3 weeks,"Monday, May 3",2021-05-24 00:00:00
+3,Dustin Martin,Concussion,Test,"Monday, May 3",2021-05-31
+4,Dion Prestia,Calf,2-3 weeks,"Monday, May 3",2021-05-24 00:00:00
+5,Ivan Soldo,Knee,3 months,"Monday, May 3",2021-08-03 00:00:00
+6,Nick Vlastuin,Knee,Test,"Monday, May 3",2021-05-31
 0,James Frawley,Hamstring,Test,"Tuesday, April 27",2021-05-31
 1,Jarryn Geary,Fractured leg,3-6 weeks,"Tuesday, April 27",2021-06-08 00:00:00
 2,Jade Gresham,Achilles,Season,"Tuesday, April 27",2024-01-01 00:00:00
@@ -151,10 +149,11 @@
 5,Luke Shuey,Hamstring,TBC,"Tuesday, April 27",2021-05-31
 6,Daniel Venables,Concussion,TBC,"Tuesday, April 27",2021-05-31
 7,Elliot Yeo,Groin,TBC,"Tuesday, April 27",2021-05-31
-0,Josh Dunkley,Shoulder,12-16 weeks,"Tuesday, April 27",2021-08-17 00:00:00
-1,Tim English,Concussion,1-2 weeks,"Tuesday, April 27",2021-05-11 00:00:00
-2,Ryan Gardner,Shoulder,3-5 weeks,"Tuesday, April 27",2021-06-01 00:00:00
-3,Toby McLean,Knee,4-6 weeks,"Tuesday, April 27",2021-06-08 00:00:00
-4,Lin Jong,Hamstring,10-12 weeks,"Tuesday, April 27",2021-07-20 00:00:00
-5,Ed Richards,Ankle,3-5 weeks,"Tuesday, April 27",2021-06-01 00:00:00
-6,Bailey Williams,Collarbone,2-3 weeks,"Tuesday, April 27",2021-05-18 00:00:00
+0,Josh Dunkley,Shoulder,11-15 weeks,"Monday, May 3",2021-08-16 00:00:00
+1,Tim English,Concussion,Test,"Monday, May 3",2021-05-31
+2,Ryan Gardner,Shoulder,2-4 weeks,"Monday, May 3",2021-05-31 00:00:00
+3,Toby McLean,Knee,3-5 weeks,"Monday, May 3",2021-06-07 00:00:00
+4,Lin Jong,Hamstring,9-11 weeks,"Monday, May 3",2021-07-19 00:00:00
+5,Ed Richards,Ankle,2-4 weeks,"Monday, May 3",2021-05-31 00:00:00
+6,Laitham Vandermeer,Back,Test,"Monday, May 3",2021-05-31
+7,Bailey Williams,Collarbone,1-2 weeks,"Monday, May 3",2021-05-17 00:00:00
