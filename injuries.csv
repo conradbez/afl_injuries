@@ -35,17 +35,17 @@
 6,Nathan Murphy,Concussion,1 week,"Tuesday, May 11",2021-05-18 00:00:00
 7,Jordan Roughead,Concussion,1 week,"Tuesday, May 11",2021-05-18 00:00:00
 8,Anton Tohill,Adductor,Test,"Tuesday, May 11",2021-06-14
-0,Kaine Baldwin,Knee,Indefinite,"Tuesday, May 11",2024-01-01 00:00:00
-1,Jye Caldwell,Hamstring,10-14 weeks,"Tuesday, May 11",2021-08-17 00:00:00
-2,Dylan Clarke,Ankle,Test,"Tuesday, May 11",2021-06-14
-3,Tom Cutler,Calf,2-3 weeks,"Tuesday, May 11",2021-06-01 00:00:00
-4,Sam Draper,Ankle,2-3 weeks,"Tuesday, May 11",2021-06-01 00:00:00
-5,Michael Hurley,Hip,Indefinite,"Tuesday, May 11",2024-01-01 00:00:00
-6,Zach Reid,Illness,Indefinite,"Tuesday, May 11",2024-01-01 00:00:00
-7,Dylan Shiel,Knee,8-10 weeks,"Tuesday, May 11",2021-07-20 00:00:00
-8,Jake Stringer,Hamstring,3-4 weeks,"Tuesday, May 11",2021-06-08 00:00:00
-9,Irving Mosquito,Knee,Indefinite,"Tuesday, May 11",2024-01-01 00:00:00
-10,Alec Waterman,Ankle,Test,"Tuesday, May 11",2021-06-14
+0,Kaine Baldwin,Knee,Indefinite,"Monday, May 17",2024-01-01 00:00:00
+1,Jye Caldwell,Hamstring,10-14 weeks,"Monday, May 17",2021-08-23 00:00:00
+2,Dylan Clarke,Ankle,TBC,"Monday, May 17",2021-06-14
+3,Tom Cutler,Calf,2-3 weeks,"Monday, May 17",2021-06-07 00:00:00
+4,Sam Draper,Ankle,2-3 weeks,"Monday, May 17",2021-06-07 00:00:00
+5,Michael Hurley,Hip,Indefinite,"Monday, May 17",2024-01-01 00:00:00
+6,Zach Reid,Illness,2-3 weeks,"Monday, May 17",2021-06-07 00:00:00
+7,Dylan Shiel,Knee,8-10 weeks,"Monday, May 17",2021-07-26 00:00:00
+8,Devon Smith,Hamstring,2-3 weeks,"Monday, May 17",2021-06-07 00:00:00
+9,Jake Stringer,Hamstring,2-3 weeks,"Monday, May 17",2021-06-07 00:00:00
+10,Irving Mosquito,Knee,Indefinite,"Monday, May 17",2024-01-01 00:00:00
 0,Bailey Banfield,Ankle,TBC,"Tuesday, May 11",2021-06-14
 1,Adam Cerra,Ankle,Test,"Tuesday, May 11",2021-06-14
 2,Heath Chapman,Shoulder,Season,"Tuesday, May 11",2024-01-01 00:00:00
@@ -166,14 +166,13 @@
 9,Daniel Venables,Concussion,TBC,"Tuesday, May 11",2021-06-14
 10,Isiah Winder,Knee,8 weeks,"Tuesday, May 11",2021-07-06 00:00:00
 11,Elliot Yeo,Groin,TBC,"Tuesday, May 11",2021-06-14
-0,Josh Dunkley,Shoulder,10-14 weeks,"Tuesday, May 11",2021-08-17 00:00:00
-1,Tim English,Concussion,Test,"Tuesday, May 11",2021-06-14
-2,Ryan Gardner,Shoulder,Test,"Tuesday, May 11",2021-06-14
-3,Lachie Hunter,Hand,TBC,"Tuesday, May 11",2021-06-14
-4,Stefan Martin,Achilles,2-4 weeks,"Tuesday, May 11",2021-06-08 00:00:00
-5,Toby McLean,Knee,2-3 weeks,"Tuesday, May 11",2021-06-01 00:00:00
-6,Lin Jong,Hamstring,9-10 weeks,"Tuesday, May 11",2021-07-20 00:00:00
-7,Ed Richards,Ankle,3-5 weeks,"Tuesday, May 11",2021-06-15 00:00:00
-8,Laitham Vandermeer,Back,Test,"Tuesday, May 11",2021-06-14
-9,Jamarra Ugle-Hagan,Concussion,TBC,"Tuesday, May 11",2021-06-14
-10,Bailey Williams,Collarbone,Test,"Tuesday, May 11",2021-06-14
+0,Josh Dunkley,Shoulder,8-10 weeks,"Monday, May 17",2021-07-26 00:00:00
+1,Tim English,Concussion,Test,"Monday, May 17",2021-06-14
+2,Ryan Gardner,Shoulder,Available,"Monday, May 17",
+3,Lachie Hunter,Hand,Test,"Monday, May 17",2021-06-14
+4,Stefan Martin,Achilles,3-4 weeks,"Monday, May 17",2021-06-14 00:00:00
+5,Toby McLean,Knee,1-2 weeks,"Monday, May 17",2021-05-31 00:00:00
+6,Lin Jong,Hamstring,8-10 weeks,"Monday, May 17",2021-07-26 00:00:00
+7,Ed Richards,Ankle,3-4 weeks,"Monday, May 17",2021-06-14 00:00:00
+8,Jamarra Ugle-Hagan,Concussion,TBC,"Monday, May 17",2021-06-14
+9,Easton Wood,Hamstring,4-6 weeks,"Monday, May 17",2021-06-28 00:00:00
