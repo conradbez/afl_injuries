@@ -26,14 +26,14 @@
 8,Mitch McGovern,Hamstring,5-7 weeks,"Tuesday, May 25",2021-07-13 00:00:00
 9,Sam Philp,Groin,Season,"Tuesday, May 25",2024-01-01 00:00:00
 10,Lachie Plowman,Suspension,Round 13,"Tuesday, May 25",
-0,Taylor Adams,Knee,1-2 weeks,"Tuesday, May 18",2021-06-01 00:00:00
-1,Jamie Elliott,Leg,2-3 weeks,"Tuesday, May 18",2021-06-08 00:00:00
-2,Levi Greenwood,Concussion,TBC,"Tuesday, May 18",2021-06-22
-3,Jeremy Howe,Hamstring,8-14 weeks,"Tuesday, May 18",2021-08-24 00:00:00
-4,Max Lynch,Calf,Test,"Tuesday, May 18",2021-06-22
-5,Reef McInnes,Ankle,8-10 weeks,"Tuesday, May 18",2021-07-27 00:00:00
-6,Trey Ruscoe,Shoulder,1-2 weeks,"Tuesday, May 18",2021-06-01 00:00:00
-7,Anton Tohill,Adductor,Test,"Tuesday, May 18",2021-06-22
+0,Callum Brown,Shoulder,Test,"Tuesday, May 25",2021-06-22
+1,Mason Cox,Larynx,1-2 weeks,"Tuesday, May 25",2021-06-08 00:00:00
+2,Jamie Elliott,Leg,1-2 weeks,"Tuesday, May 25",2021-06-08 00:00:00
+3,Levi Greenwood,Concussion,TBC,"Tuesday, May 25",2021-06-22
+4,Jeremy Howe,Hamstring,8-10 weeks,"Tuesday, May 25",2021-08-03 00:00:00
+5,Beau McCreery,Calf,1-2 weeks,"Tuesday, May 25",2021-06-08 00:00:00
+6,Reef McInnes,Ankle,8-10 weeks,"Tuesday, May 25",2021-08-03 00:00:00
+7,Josh Thomas,Ankle,Test,"Tuesday, May 25",2021-06-22
 0,Kaine Baldwin,Knee,Indefinite,"Tuesday, May 25",2024-01-01 00:00:00
 1,Jye Caldwell,Hamstring,10-12 weeks,"Tuesday, May 25",2021-08-17 00:00:00
 2,Dylan Clarke,Ankle,TBC,"Tuesday, May 25",2021-06-22
@@ -58,17 +58,14 @@
 9,Sam Sturt,Knee,Season,"Monday, May 24",2024-01-01 00:00:00
 10,Matt Taberner,Ankle,Test,"Monday, May 24",2021-06-22
 11,Hayden Young,Hamstring,3-5 weeks,"Monday, May 24",2021-06-28 00:00:00
-0,Patrick Dangerfield,Ankle,3-5 weeks,"Tuesday, May 18",2021-06-22 00:00:00
-1,Luke Dahlhaus,Unknown,Test,"Tuesday, May 18",2021-06-22
-2,Francis Evans,Ankle,Test,"Tuesday, May 18",2021-06-22
-3,Jake Kolodjashnij,Knee,Test,"Tuesday, May 18",2021-06-22
-4,Nathan Kreuger,Knee,Test,"Tuesday, May 18",2021-06-22
-5,Gryan Miers,Fractured leg,2-4 weeks,"Tuesday, May 18",2021-06-15 00:00:00
-6,Brandan Parfitt,Hand,Test,"Tuesday, May 18",2021-06-22
-7,Mark O'Connor,Hamstring,1-3 weeks,"Tuesday, May 18",2021-06-08 00:00:00
-8,Sam Simpson,Hamstring,1-2 weeks,"Tuesday, May 18",2021-06-01 00:00:00
-9,Cooper Stephens,Ankle,Test,"Tuesday, May 18",2021-06-22
-10,Cameron Taheny,Adductor,1-2 weeks,"Tuesday, May 18",2021-06-01 00:00:00
+0,Patrick Dangerfield,Ankle,2-3 weeks,"Tuesday, May 25",2021-06-15 00:00:00
+1,Mitch Duncan,Concussion,1 week,"Tuesday, May 25",2021-06-01 00:00:00
+2,Cam Guthrie,Shoulder,Test,"Tuesday, May 25",2021-06-22
+3,Gryan Miers,Fractured leg,1-2 weeks,"Tuesday, May 25",2021-06-08 00:00:00
+4,Mark O'Connor,Hamstring,1-2 weeks,"Tuesday, May 25",2021-06-08 00:00:00
+5,Sam Simpson,Hamstring,1-2 weeks,"Tuesday, May 25",2021-06-08 00:00:00
+6,Cooper Stephens,Ankle,Test,"Tuesday, May 25",2021-06-22
+7,Cameron Taheny,Adductor,Test,"Tuesday, May 25",2021-06-22
 0,Jack Bowes,Hamstring,2 weeks,"Tuesday, May 25",2021-06-08 00:00:00
 1,Connor Budarick,Knee,Season,"Tuesday, May 25",2024-01-01 00:00:00
 2,Matt Conroy,Knee,Season,"Tuesday, May 25",2024-01-01 00:00:00
@@ -147,20 +144,20 @@
 5,Patrick Naish,Hamstring,1-3 weeks,"Tuesday, May 25",2021-06-15 00:00:00
 6,Dion Prestia,Calf,Test,"Tuesday, May 25",2021-06-22
 7,Ivan Soldo,Knee,3 months,"Tuesday, May 25",2021-08-25 00:00:00
-0,Jake Carlisle,Back,Test,"Tuesday, May 18",2021-06-22
-1,Brad Crouch,Cheekbone,Test,"Tuesday, May 18",2021-06-22
-2,Jade Gresham,Achilles,Season,"Tuesday, May 18",2024-01-01 00:00:00
-3,Dan Hannebery,Calf,TBC,"Tuesday, May 18",2021-06-22
-4,Zak Jones,Quad,6-10 weeks,"Tuesday, May 18",2021-07-27 00:00:00
-5,Dean Kent,Concussion,Test,"Tuesday, May 18",2021-06-22
-6,Rowan Marshall,Foot,4-6 weeks,"Tuesday, May 18",2021-06-29 00:00:00
-7,Daniel McKenzie,Calf,1-2 weeks,"Tuesday, May 18",2021-06-01 00:00:00
-8,Ben Paton,Broken leg,Season,"Tuesday, May 18",2024-01-01 00:00:00
-0,Braeden Campbell,Shin,5-6 weeks,"Tuesday, May 18",2021-06-29 00:00:00
-1,Errol Gulden,Foot,5-6 weeks,"Tuesday, May 18",2021-06-29 00:00:00
-2,Lewis Melican,Hamstring,1 week,"Tuesday, May 18",2021-05-25 00:00:00
-3,Sam Reid,Hamstring,1 week,"Tuesday, May 18",2021-05-25 00:00:00
-4,Ben Ronke,Knee,1 week,"Tuesday, May 18",2021-05-25 00:00:00
+0,Jake Carlisle,Back,Indefinite,"Tuesday, May 25",2024-01-01 00:00:00
+1,Jade Gresham,Achilles,Season,"Tuesday, May 25",2024-01-01 00:00:00
+2,Dan Hannebery,Calf,TBC,"Tuesday, May 25",2021-06-22
+3,Zak Jones,Quad,6-8 weeks,"Tuesday, May 25",2021-07-20 00:00:00
+4,Dean Kent,Concussion,TBC,"Tuesday, May 25",2021-06-22
+5,Rowan Marshall,Foot,2-4 weeks,"Tuesday, May 25",2021-06-22 00:00:00
+6,Daniel McKenzie,Calf,Test,"Tuesday, May 25",2021-06-22
+7,Ben Paton,Broken leg,Season,"Tuesday, May 25",2024-01-01 00:00:00
+0,Braeden Campbell,Shin,4-5 weeks,"Tuesday, May 25",2021-06-29 00:00:00
+1,Robbie Fox,Eye,TBC,"Tuesday, May 25",2021-06-22
+2,Errol Gulden,Foot,4-5 weeks,"Tuesday, May 25",2021-06-29 00:00:00
+3,Lewis Melican,Hamstring,Test,"Tuesday, May 25",2021-06-22
+4,Sam Reid,Calf,TBC,"Tuesday, May 25",2021-06-22
+5,Ben Ronke,Knee,Test,"Tuesday, May 25",2021-06-22
 0,Oscar Allen,Elbow,Test,"Tuesday, May 18",2021-06-22
 1,Liam Duggan,Knee,4 weeks,"Tuesday, May 18",2021-06-15 00:00:00
 2,Shannon Hurn,Calf,Test,"Tuesday, May 18",2021-06-22
