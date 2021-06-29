@@ -13,18 +13,20 @@
 5,Harry Sharp,Ankle,6 weeks,"Tuesday, June 29",2021-08-10 00:00:00
 6,Ely Smith,Ankle,1-3 weeks,"Tuesday, June 29",2021-07-20 00:00:00
 7,Cam Rayner,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
-0,Levi Casboult,Suspension,Round 16,"Tuesday, June 22",
-1,David Cuningham,Knee,Season,"Tuesday, June 22",2024-01-01 00:00:00
-2,Charlie Curnow,Knee,4-6 weeks,"Tuesday, June 22",2021-08-03 00:00:00
-3,Michael Gibbons,Hamstring,Test,"Tuesday, June 22",2021-07-27
-4,Caleb Marchbank,Knee,Season,"Tuesday, June 22",2024-01-01 00:00:00
-5,Oscar McDonald,Back,2-4 weeks,"Tuesday, June 22",2021-07-20 00:00:00
-6,Mitch McGovern,Hamstring,1-3 weeks,"Tuesday, June 22",2021-07-13 00:00:00
-7,Alex Mirkov,Knee,3-4 weeks,"Tuesday, June 22",2021-07-20 00:00:00
-8,Luke Parks,Back,Test,"Tuesday, June 22",2021-07-27
-9,Sam Philp,Groin,Season,"Tuesday, June 22",2024-01-01 00:00:00
-10,Lachie Plowman,Knee,1 week,"Tuesday, June 22",2021-06-29 00:00:00
-11,Will Setterfield,Hand,2-3 weeks,"Tuesday, June 22",2021-07-13 00:00:00
+0,Jordan Boyd,Knee,TBC,"Tuesday, June 29",2021-07-27
+1,David Cuningham,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
+2,Charlie Curnow,Knee,3-5 weeks,"Tuesday, June 29",2021-08-03 00:00:00
+3,Zac Fisher,Ankle,Test,"Tuesday, June 29",2021-07-27
+4,Michael Gibbons,Hamstring,6-8 weeks,"Tuesday, June 29",2021-08-24 00:00:00
+5,Caleb Marchbank,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
+6,Oscar McDonald,Back,2-3 weeks,"Tuesday, June 29",2021-07-20 00:00:00
+7,Mitch McGovern,Hamstring,1-2 weeks,"Tuesday, June 29",2021-07-13 00:00:00
+8,Alex Mirkov,Knee,2-3 weeks,"Tuesday, June 29",2021-07-20 00:00:00
+9,Marc Murphy,Calf,2 weeks,"Tuesday, June 29",2021-07-13 00:00:00
+10,Sam Philp,Groin,Season,"Tuesday, June 29",2024-01-01 00:00:00
+11,Marc Pittonet,Ankle,6-8 weeks,"Tuesday, June 29",2021-08-24 00:00:00
+12,Will Setterfield,Hand,1 week,"Tuesday, June 29",2021-07-06 00:00:00
+13,Zac Williams,Suspension,Round 17,"Tuesday, June 29",
 0,Aiden Begg,Shoulder,Season,"Tuesday, June 29",2024-01-01 00:00:00
 1,Tyler Brown,Shoulder,Season,"Tuesday, June 29",2024-01-01 00:00:00
 2,Jeremy Howe,Hamstring,2-3 weeks,"Tuesday, June 29",2021-07-20 00:00:00
@@ -42,18 +44,16 @@
 7,Andrew Phillips,Hamstring,3-4 weeks,"Tuesday, June 29",2021-07-27 00:00:00
 8,Dylan Shiel,Knee,1-2 weeks,"Tuesday, June 29",2021-07-13 00:00:00
 9,Will Snelling,Thumb,Test,"Tuesday, June 29",2021-07-27
-0,Heath Chapman,Shoulder,Season,"Tuesday, June 22",2024-01-01 00:00:00
-1,Brennan Cox,Hamstring,Season,"Tuesday, June 22",2024-01-01 00:00:00
-2,Michael Frederick,Ankle,6-7 weeks,"Tuesday, June 22",2021-08-10 00:00:00
-3,Nat Fyfe,Shoulder,Test,"Tuesday, June 22",2021-07-27
-4,Joel Hamling,Ankle,TBC,"Tuesday, June 22",2021-07-27
-5,Stephen Hill,Hamstring,3-4 weeks,"Tuesday, June 22",2021-07-20 00:00:00
-6,Ethan Hughes,Shoulder,2-3 weeks,"Tuesday, June 22",2021-07-13 00:00:00
-7,Griffin Logue,Concussion,Test,"Tuesday, June 22",2021-07-27
-8,Sam Sturt,Knee,Season,"Tuesday, June 22",2024-01-01 00:00:00
-9,Sam Switkowski,Hamstring,Test,"Tuesday, June 22",2021-07-27
-10,Matt Taberner,Ankle,Test,"Tuesday, June 22",2021-07-27
-11,Hayden Young,Hamstring,1 week,"Tuesday, June 22",2021-06-29 00:00:00
+0,Heath Chapman,Shoulder,Season,"Tuesday, June 29",2024-01-01 00:00:00
+1,Brennan Cox,Hamstring,Season,"Tuesday, June 29",2024-01-01 00:00:00
+2,Michael Frederick,Ankle,6-7 weeks,"Tuesday, June 29",2021-08-17 00:00:00
+3,Nat Fyfe,Shoulder,Test,"Tuesday, June 29",2021-07-27
+4,Joel Hamling,Ankle,TBC,"Tuesday, June 29",2021-07-27
+5,Stephen Hill,Hamstring,2 weeks,"Tuesday, June 29",2021-07-13 00:00:00
+6,Ethan Hughes,Shoulder,Test,"Tuesday, June 29",2021-07-27
+7,Sam Sturt,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
+8,Matt Taberner,Calf,3-4 weeks,"Tuesday, June 29",2021-07-27 00:00:00
+9,Hayden Young,Hamstring,Test,"Tuesday, June 29",2021-07-27
 0,Jordan Clark,Shoulder,4-8 weeks,"Tuesday, June 29",2021-08-24 00:00:00
 1,Mitch Duncan,Knee,8-10 weeks,"Tuesday, June 29",2021-09-07 00:00:00
 2,Nathan Kreuger,Back,Test,"Tuesday, June 29",2021-07-27
@@ -82,24 +82,19 @@
 4,Harry Morrison,Hamstring,4 weeks,"Tuesday, June 29",2021-07-27 00:00:00
 5,James Sicily,Knee,Indefinite,"Tuesday, June 29",2024-01-01 00:00:00
 6,Chad Wingard,Hamstring,TBC,"Tuesday, June 29",2021-07-27
-0,Marty Hore,Knee,Season,"Tuesday, June 22",2024-01-01 00:00:00
-1,Bailey Laurie,Eye,Test,"Tuesday, June 22",2021-07-27
-2,Aaron Nietschke,Knee,Season,"Tuesday, June 22",2024-01-01 00:00:00
-3,Deakyn Smith,Ankle,Test,"Tuesday, June 22",2021-07-27
-4,Joel Smith,Knee,Test,"Tuesday, June 22",2021-07-27
-5,Adam Tomlinson,Knee,Season,"Tuesday, June 22",2024-01-01 00:00:00
-6,Jack Viney,Toe,Test,"Tuesday, June 22",2021-07-27
-0,Jed Anderson,Ankle,2-3 weeks,"Tuesday, June 22",2021-07-13 00:00:00
-1,Aidan Bonar,Ankle,4-6 weeks,"Tuesday, June 22",2021-08-03 00:00:00
-2,Charlie Comben,Leg,4-6 weeks,"Tuesday, June 22",2021-08-03 00:00:00
-3,Aidan Corr,Toe,Indefinite,"Tuesday, June 22",2024-01-01 00:00:00
-4,Taylor Garner,Ankle,Test,"Tuesday, June 22",2021-07-27
-5,Matt McGuinness,Foot,Test,"Tuesday, June 22",2021-07-27
-6,Flynn Perez,Knee,Season,"Tuesday, June 22",2024-01-01 00:00:00
-7,Jared Polec,Hamstring,2-4 weeks,"Tuesday, June 22",2021-07-20 00:00:00
-8,Phoenix Spicer,Hamstring,TBC,"Tuesday, June 22",2021-07-27
-9,Dom Tyson,Calf,TBC,"Tuesday, June 22",2021-07-27
-10,Will Walker,Thumb,TBC,"Tuesday, June 22",2021-07-27
+0,Marty Hore,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
+1,Aaron Nietschke,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
+2,Adam Tomlinson,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
+0,Jed Anderson,Ankle,Test,"Tuesday, June 29",2021-07-27
+1,Aidan Bonar,Ankle,3-5 weeks,"Tuesday, June 29",2021-08-03 00:00:00
+2,Charlie Comben,Leg,3-5 weeks,"Tuesday, June 29",2021-08-03 00:00:00
+3,Aidan Corr,Toe,Indefinite,"Tuesday, June 29",2024-01-01 00:00:00
+4,Taylor Garner,Ankle,Test,"Tuesday, June 29",2021-07-27
+5,Matt McGuinness,Foot,TBC,"Tuesday, June 29",2021-07-27
+6,Flynn Perez,Knee,Season,"Tuesday, June 29",2024-01-01 00:00:00
+7,Phoenix Spicer,Hamstring,TBC,"Tuesday, June 29",2021-07-27
+8,Dom Tyson,Calf,TBC,"Tuesday, June 29",2021-07-27
+9,Will Walker,Thumb,TBC,"Tuesday, June 29",2021-07-27
 0,Trent Burgoyne,Hamstring,Season,"Tuesday, June 29",2024-01-01 00:00:00
 1,Zak Butters,Ankle,TBC,"Tuesday, June 29",2021-07-27
 2,Xavier Duursma,Knee,1 week,"Tuesday, June 29",2021-07-06 00:00:00
@@ -137,18 +132,13 @@
 2,Sam Naismith,ACL,Indefinite,"Tuesday, June 29",2024-01-01 00:00:00
 3,Sam Reid,Calf,1-2 weeks,"Tuesday, June 29",2021-07-13 00:00:00
 4,Chad Warner,Shin,1-2 weeks,"Tuesday, June 29",2021-07-13 00:00:00
-0,Brendon Ah Chee,Calf,Test,"Tuesday, June 22",2021-07-27
-1,Jarrod Cameron,Ankle,TBC,"Tuesday, June 22",2021-07-27
-2,Will Collins,Hamstring,Test,"Tuesday, June 22",2021-07-27
-3,Ben Johnson,Hamstring,1 week,"Tuesday, June 22",2021-06-29 00:00:00
-4,Tim Kelly,Knee,Test,"Tuesday, June 22",2021-07-27
-5,Jeremy McGovern,Knee,Test,"Tuesday, June 22",2021-07-27
-6,Jack Petruccelle,Hamstring,Test,"Tuesday, June 22",2021-07-27
-7,Willie Rioli,Suspension,August 20,"Tuesday, June 22",
-8,Brad Sheppard,Concussion,Test,"Tuesday, June 22",2021-07-27
-9,Daniel Venables,Concussion,TBC,"Tuesday, June 22",2021-07-27
-10,Connor West,Ankle,1-2 weeks,"Tuesday, June 22",2021-07-06 00:00:00
-11,Isiah Winder,Knee,1-2 weeks,"Tuesday, June 22",2021-07-06 00:00:00
+0,Jarrod Cameron,Ankle,TBC,"Tuesday, June 29",2021-07-27
+1,Ben Johnson,Hamstring,Test,"Tuesday, June 29",2021-07-27
+2,Willie Rioli,Suspension,August 20,"Tuesday, June 29",
+3,Liam Ryan,Suspension,Round 17,"Tuesday, June 29",
+4,Daniel Venables,Concussion,TBC,"Tuesday, June 29",2021-07-27
+5,Connor West,Ankle,Test,"Tuesday, June 29",2021-07-27
+6,Isiah Winder,Knee,Test,"Tuesday, June 29",2021-07-27
 0,Josh Dunkley,Shoulder,3-4 weeks,"Tuesday, June 29",2021-07-27 00:00:00
 1,Ryan Gardner,Shoulder,6-8 weeks,"Tuesday, June 29",2021-08-24 00:00:00
 2,Stefan Martin,Groin,1-2 weeks,"Tuesday, June 29",2021-07-13 00:00:00
