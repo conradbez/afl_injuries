@@ -39,22 +39,25 @@
 5,Beau McCreery,Hamstring,6 weeks,"Tuesday, July 6",2021-08-17 00:00:00
 6,Reef McInnes,Ankle,Test,"Tuesday, July 6",2021-08-10
 7,Darcy Moore,Knee,Season,"Tuesday, July 6",2024-01-01 00:00:00
-0,Kaine Baldwin,Knee,Indefinite,"Tuesday, July 6",2024-01-01 00:00:00
-1,Cody Brand,Hand,1-2 weeks,"Tuesday, July 6",2021-07-20 00:00:00
-2,Jye Caldwell,Hamstring,5-7 weeks,"Tuesday, July 6",2021-08-24 00:00:00
-3,Aaron Francis,Mental health,TBC,"Tuesday, July 6",2021-08-10
-4,Michael Hurley,Hip,Season,"Tuesday, July 6",2024-01-01 00:00:00
-5,Andrew McGrath,Knee,5-6 weeks,"Tuesday, July 6",2021-08-17 00:00:00
-6,Irving Mosquito,Knee,Indefinite,"Tuesday, July 6",2024-01-01 00:00:00
-7,Andrew Phillips,Hamstring,1-2 weeks,"Tuesday, July 6",2021-07-20 00:00:00
-8,Dylan Shiel,Knee,1-2 weeks,"Tuesday, July 6",2021-07-20 00:00:00
-0,Heath Chapman,Shoulder,Season,"Tuesday, July 6",2024-01-01 00:00:00
-1,Brennan Cox,Hamstring,Season,"Tuesday, July 6",2024-01-01 00:00:00
-2,Michael Frederick,Ankle,5-6 weeks,"Tuesday, July 6",2021-08-17 00:00:00
-3,Joel Hamling,Ankle,Season,"Tuesday, July 6",2024-01-01 00:00:00
-4,Stephen Hill,Hamstring,Test,"Tuesday, July 6",2021-08-10
-5,Sam Sturt,Knee,Season,"Tuesday, July 6",2024-01-01 00:00:00
-6,Matt Taberner,Calf,2-3 weeks,"Tuesday, July 6",2021-07-27 00:00:00
+0,Kaine Baldwin,Knee,Indefinite,"Tuesday, July 13",2024-01-01 00:00:00
+1,Jye Caldwell,Hamstring,5-6 weeks,"Tuesday, July 13",2021-08-24 00:00:00
+2,Aaron Francis,Mental health,TBC,"Tuesday, July 13",2021-08-10
+3,Dyson Heppell,Thumb,Test,"Tuesday, July 13",2021-08-10
+4,Michael Hurley,Hip,Season,"Tuesday, July 13",2024-01-01 00:00:00
+5,Kyle Langford,Hamstring,TBC,"Tuesday, July 13",2021-08-10
+6,Andrew McGrath,Knee,5-6 weeks,"Tuesday, July 13",2021-08-24 00:00:00
+7,Irving Mosquito,Knee,Season,"Tuesday, July 13",2024-01-01 00:00:00
+8,Andrew Phillips,Hamstring,Test,"Tuesday, July 13",2021-08-10
+9,Zach Reid,Back,Season,"Tuesday, July 13",2024-01-01 00:00:00
+10,Dylan Shiel,Knee,1-2 weeks,"Tuesday, July 13",2021-07-27 00:00:00
+0,Brett Bewley,Ribs,3 weeks,"Tuesday, July 13",2021-08-03 00:00:00
+1,Heath Chapman,Shoulder,Season,"Tuesday, July 13",2024-01-01 00:00:00
+2,Brennan Cox,Hamstring,Season,"Tuesday, July 13",2024-01-01 00:00:00
+3,Michael Frederick,Ankle,5-6 weeks,"Tuesday, July 13",2021-08-24 00:00:00
+4,Joel Hamling,Ankle,Season,"Tuesday, July 13",2024-01-01 00:00:00
+5,Nathan O'Driscoll,Calf,Test,"Tuesday, July 13",2021-08-10
+6,Sam Sturt,Knee,Season,"Tuesday, July 13",2024-01-01 00:00:00
+7,Matt Taberner,Calf,1-2 weeks,"Tuesday, July 13",2021-07-27 00:00:00
 0,Jeremy Cameron,Hamstring,4-6 weeks,"Tuesday, July 6",2021-08-17 00:00:00
 1,Jordan Clark,Shoulder,Test,"Tuesday, July 6",2021-08-10
 2,Mitch Duncan,Knee,6-8 weeks,"Tuesday, July 6",2021-08-31 00:00:00
@@ -71,12 +74,15 @@
 6,Rory Thompson,Knee,Season,"Tuesday, July 6",2024-01-01 00:00:00
 7,Lachie Weller,Hamstring,Test,"Tuesday, July 6",2021-08-10
 8,Jarrod Witts,Knee,Season,"Tuesday, July 6",2024-01-01 00:00:00
-0,Jack Buckley,Knee,Season,"Tuesday, July 6",2024-01-01 00:00:00
-1,Tom Hutchesson,Calf,Test,"Tuesday, July 6",2021-08-10
-2,Lachlan Keeffe,Knee,Season,"Tuesday, July 6",2024-01-01 00:00:00
-3,Braydon Preuss,Pectoral,8-12 weeks,"Tuesday, July 6",2021-09-28 00:00:00
-4,Nick Shipley,Concussion,Test,"Tuesday, July 6",2021-08-10
-5,Conor Stone,Hamstring,TBC,"Tuesday, July 6",2021-08-10
+0,Ryan Angwin,Hamstring,Test,"Tuesday, July 13",2021-08-10
+1,Jack Buckley,Knee,Season,"Tuesday, July 13",2024-01-01 00:00:00
+2,Tom Hutchesson,Hamstring,TBC,"Tuesday, July 13",2021-08-10
+3,Lachlan Keeffe,Knee,Season,"Tuesday, July 13",2024-01-01 00:00:00
+4,James Peatling,Ribs,TBC,"Tuesday, July 13",2021-08-10
+5,Braydon Preuss,Pectoral,7-11 weeks,"Tuesday, July 13",2021-09-28 00:00:00
+6,Will Shaw,Shoulder,TBC,"Tuesday, July 13",2021-08-10
+7,Conor Stone,Hamstring,TBC,"Tuesday, July 13",2021-08-10
+8,Lachie Whitfield,Concussion,1 week,"Tuesday, July 13",2021-07-20 00:00:00
 0,Will Day,Ankle,TBC,"Tuesday, July 6",2021-08-10
 1,Denver Grainger-Barras,Concussion,Test,"Tuesday, July 6",2021-08-10
 2,Jack Gunston,Back,TBC,"Tuesday, July 6",2021-08-10
@@ -134,19 +140,18 @@
 2,Sam Naismith,ACL,Indefinite,"Tuesday, July 6",2024-01-01 00:00:00
 3,Sam Reid,Calf,Test,"Tuesday, July 6",2021-08-10
 4,Chad Warner,Shin,1-2 weeks,"Tuesday, July 6",2021-07-20 00:00:00
-0,Jarrod Cameron,Ankle,TBC,"Tuesday, July 6",2021-08-10
-1,Will Collins,Hamstring,1-2 weeks,"Tuesday, July 6",2021-07-20 00:00:00
-2,Andrew Gaff,Thumb,TBC,"Tuesday, July 6",2021-08-10
-3,Jamaine Jones,Foot,TBC,"Tuesday, July 6",2021-08-10
-4,Jack Redden,Knee,TBC,"Tuesday, July 6",2021-08-10
-5,Willie Rioli,Suspension,August 20,"Tuesday, July 6",
-6,Daniel Venables,Concussion,TBC,"Tuesday, July 6",2021-08-10
-7,Isiah Winder,Knee,Test,"Tuesday, July 6",2021-08-10
-0,Josh Dunkley,Shoulder,1-2 weeks,"Tuesday, July 6",2021-07-20 00:00:00
-1,Ryan Gardner,Shoulder,TBC,"Tuesday, July 6",2021-08-10
-2,Stefan Martin,AC joint,2-3 weeks,"Tuesday, July 6",2021-07-27 00:00:00
-3,Aaron Naughton,Concussion,TBC,"Tuesday, July 6",2021-08-10
-4,Lin Jong,Hamstring,3 weeks,"Tuesday, July 6",2021-07-27 00:00:00
-5,Adam Treloar,Ankle,4-6 weeks,"Tuesday, July 6",2021-08-17 00:00:00
-6,Laitham Vandermeer,Knee,2-3 weeks,"Tuesday, July 6",2021-07-27 00:00:00
-7,Easton Wood,Ankle,2-3 weeks,"Tuesday, July 6",2021-07-27 00:00:00
+0,Jarrod Cameron,Ankle,TBC,"Tuesday, July 13",2021-08-10
+1,Will Collins,Hamstring,1-2 weeks,"Tuesday, July 13",2021-07-27 00:00:00
+2,Jamaine Jones,Ankle,6 weeks,"Tuesday, July 13",2021-08-24 00:00:00
+3,Jack Redden,Leg,2-3 weeks,"Tuesday, July 13",2021-08-03 00:00:00
+4,Willie Rioli,Suspension,August 20,"Tuesday, July 13",
+5,Daniel Venables,Concussion,TBC,"Tuesday, July 13",2021-08-10
+6,Alex Witherden,Groin,TBC,"Tuesday, July 13",2021-08-10
+0,Josh Dunkley,Shoulder,Test,"Tuesday, July 13",2021-08-10
+1,Ryan Gardner,Shoulder,TBC,"Tuesday, July 13",2021-08-10
+2,Stefan Martin,AC joint,1-2 weeks,"Tuesday, July 13",2021-07-27 00:00:00
+3,Aaron Naughton,Concussion,Test,"Tuesday, July 13",2021-08-10
+4,Lin Jong,Hamstring,2 weeks,"Tuesday, July 13",2021-07-27 00:00:00
+5,Adam Treloar,Ankle,3-4 weeks,"Tuesday, July 13",2021-08-10 00:00:00
+6,Laitham Vandermeer,Knee,2-3 weeks,"Tuesday, July 13",2021-08-03 00:00:00
+7,Easton Wood,Ankle,1-2 weeks,"Tuesday, July 13",2021-07-27 00:00:00
